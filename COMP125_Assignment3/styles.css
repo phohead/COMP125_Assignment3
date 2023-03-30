@@ -1,0 +1,59 @@
+/*
+Student Name: Wilson Yang
+Student Number: 301195179
+*/
+
+body {
+    background-color: #e6ffe6;
+    cursor: url('img/hammer.png'), auto;
+}
+
+#title {
+    font-size: 55px;
+}
+
+#title {
+    text-align: center;
+    width: auto;
+    margin: auto;
+}
+
+#canvas {
+    margin: 0 auto;
+    display: block;
+    float: none;
+}
+
+#scoreDisplay {
+    font-size: 35px;
+}
+
+button {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 8px;
+}
+
+#dashboard {
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+#resetSpeedBtn {
+    margin-top: 0.5rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+#fullResetBtn {
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
